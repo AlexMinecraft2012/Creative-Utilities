@@ -1,0 +1,1 @@
+tellraw @a {"text":"Hello World!","color":"yellow","extra":[{"text":"\nThe Creative Utilities datapack is created by Alexander Zlatanov","color":"aqua"},{"text":"\n Run /function alexander_zlatanov:crea-util/uninstall to uninstall.","color":"gray"}]}
